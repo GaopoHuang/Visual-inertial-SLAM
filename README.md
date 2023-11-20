@@ -1,6 +1,8 @@
 # Visual-Inertial SLAM via EKF
-<img src="./imgs/demo.png" alt="drawing" width="200" height="200"/>
-<img src="./imgs/features.png" alt="drawing" width="400" height="200"/>
+<p float="left">
+    <img src="./imgs/demo.png" alt="drawing" width="200" height="150"/>
+    <img src="./imgs/features.png" alt="drawing" width="350" height="150"/>
+</p>
 
 The Simultaneous Localization and Mapping (SLAM) problem has been one of the most popular research areas from
 its coinage. With the breakthrough of robotics and the usage
